@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ali Khan",
+    "role": "Electrician",
+    "skills": "Wiring, Maintenance",
+    "photo": "images/ali.jpg",
+    "location": "Dubai"
+  },
+  {
+    "name": "Sara Ahmed",
+    "role": "Plumber",
+    "skills": "Pipes, Fixtures",
+    "photo": "images/sara.jpg",
+    "location": "Abu Dhabi"
+  }
+]
