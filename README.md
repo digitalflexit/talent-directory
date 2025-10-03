@@ -1,2 +1,2 @@
 # talent-directory
-A simple Talent Directory web app built with HTML, CSS, and JS
+A simple web app to showcase available manpower and skills for FlexiTalent. Built using HTML, CSS, and JavaScript, with data stored in a JSON file. Fully static and easy to deploy using GitHub Pages.
